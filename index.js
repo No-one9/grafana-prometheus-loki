@@ -10,7 +10,7 @@ const options = {
 	labels:{
 	  appName:"express",
 	},
-      host: "http://34.57.91.84:3100"
+      host: "http://<your_IP>:3100"
     })
   ]
   
